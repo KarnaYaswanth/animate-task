@@ -5,7 +5,7 @@ body{
     justify-content: center;
     align-items: center;
 }
-.dots{
+.dot{
     display: flex;
     justify-content: center;
     align-items: center;
